@@ -1,0 +1,4 @@
+.page hr {
+  filter: hue-rotate(270deg) drop-shadow(0 0 3px black) !important;
+}
+
