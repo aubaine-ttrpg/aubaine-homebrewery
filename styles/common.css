@@ -2,3 +2,10 @@
   filter: hue-rotate(270deg) drop-shadow(0 0 3px black) !important;
 }
 
+.page .banner {
+  filter: hue-rotate(270deg) drop-shadow(2px 2px 2px black) !important;
+}
+
+.page:has(.backCover) h1 {
+  color: #712fed !important;
+}
