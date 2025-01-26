@@ -9,3 +9,17 @@
 .page:has(.backCover) h1 {
   color: #712fed !important;
 }
+
+.page:has(.insideCover) h1 {
+  color: white;
+  text-transform: uppercase;
+  -webkit-text-stroke: .2cm black;
+  paint-order: stroke;
+}
+
+.page:has(.insideCover) h2 {
+  color: white;
+  letter-spacing: .1cm;
+  -webkit-text-stroke: .14cm black;
+  paint-order: stroke;
+}
