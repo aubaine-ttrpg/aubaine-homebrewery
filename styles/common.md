@@ -1,3 +1,6 @@
+## Infos
+- 285px between the Back cover and Front cover.
+
 ## Front Cover (16:9 Horizontal)
 ```
 # Logo
