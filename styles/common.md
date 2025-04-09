@@ -1,5 +1,6 @@
 ## Infos
-- 815px between the Back cover and Front cover.(To find value of back cover just do front-cover.left minus 815)
+- 815px between the Back cover and Front cover.
+> (To find value of back cover just do `(front-cover left) - 815`)
 
 ## Front Cover (16:9 Horizontal)
 ```
